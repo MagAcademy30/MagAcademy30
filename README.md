@@ -1,2 +1,10 @@
-# Hello! I am MG30!
-Python, Java, Arduino and C++ Developer
+# Meow!
+### en
+Python, Java, Arduino and C++ Developer  
+
+Discord & Tg: @magacademy30
+
+### ru  
+Python, Java, Arduino and C++ Разработчик  
+
+Discord & Тг: @magacademy30
