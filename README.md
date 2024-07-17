@@ -1,11 +1,5 @@
 # Meow!
-### en
-Python, Java, Arduino and C++ Developer  
+I am a lover of the Linux kernel and create/port distributions to phones! \
+Also, I am a Java and Python programmer
 
-Discord & Tg: @magacademy30
-
----
-### ru  
-Python, Java, Arduino and C++ Разработчик  
-
-Discord & Тг: @magacademy30
+![Telegram](https://t.me/mg30_here)
